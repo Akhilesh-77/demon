@@ -1,4 +1,4 @@
-git config --global user.name "Akhilesh-77"
+git config --global user.name ""
 
 
 
@@ -6,7 +6,7 @@ git config --global user.name "Akhilesh-77"
 
 
 
-git config --global user.email "akhilesh27u@gmail.com"
+git config --global user.email "@gmail.com"
 git init
 git add readme.md
 git commit -m "first commit"
